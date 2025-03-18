@@ -35,8 +35,8 @@ This project implements dynamic hand gesture recognition using MediaPipe for han
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/khuong-d4ng/Dynamic_Hand_Gesture_Using_MediaPipe_LSTM_By_Group_1_CNTT1605.git
-   cd Dynamic_Hand_Gesture_Using_MediaPipe_LSTM_By_Group_1_CNTT1605
+   git clone https://github.com/Teikirene/AIOT.git
+   cd Dynamic_Hand_Gesture_Using_MediaPipe_LSTM_By_Group_1_CNTT1602
    ```
 
 2. Install the required dependencies:
